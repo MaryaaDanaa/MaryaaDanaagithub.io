@@ -1,6 +1,29 @@
-<html>
+<!DOCTYPE html>
+<html lang="ro">
 <head>
-      <title> Ferma cai </title>
+      <title> Ferma achitatie </title>
       <style>
-           color: green
-       bold
+           color: green;
+}
+       .bold {
+          fond-weight: bold;
+}
+       .italic {
+          font-style: italic;
+}
+       body {
+          font-family: serif: background-color:
+}
+       .center {
+          text-align: center;
+}
+      .red {
+         color: red;
+}
+   </style>
+</head>
+<body>
+  <h1 class="bold italic center red"> Ferma achitatie</h1>
+  <p id="Ferma achitatie" class= "bold italic"> Def.: O ferma de achitatie este o entitate sau o companie care se ocupă cu achizițiile de bunuri, servicii sau lucrări pentru autoritățile publice, în conformitate cu reglementările legale în vigoare. Aceasta poate include proceduri precum licitații, cereri de oferte, negocieri, și alte forme de selecție a furnizorilor.</p>
+<section id="image">
+   <h2 class="center"=
