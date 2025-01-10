@@ -1,20 +1,19 @@
 <!DOCTYPE html>
 <html lang="ro">
 <head>
-      <title> Ferma achitatie </title>
+      <title> Ferma echitatie</title>
       <style>
-           color: green;
+           body {
+          font-family: serif
+          background-color: #fff
 }
        .bold {
-          fond-weight: bold;
+          font-weight: bold;
 }
-       .italic {
+.italic {
           font-style: italic;
 }
-       body {
-          font-family: serif: background-color:
-}
-       .center {
+      .center {
           text-align: center;
 }
       .red {
@@ -23,7 +22,48 @@
    </style>
 </head>
 <body>
-  <h1 class="bold italic center red"> Ferma achitatie</h1>
-  <p id="Ferma achitatie" class= "bold italic"> Def.: O ferma de achitatie este o entitate sau o companie care se ocupă cu achizițiile de bunuri, servicii sau lucrări pentru autoritățile publice, în conformitate cu reglementările legale în vigoare. Aceasta poate include proceduri precum licitații, cereri de oferte, negocieri, și alte forme de selecție a furnizorilor.</p>
+  <h1 class="bold italic ceneter red"> Ferma echitatie</h1>
+  <p id="Ferma echitatie" class= "bold italic"> Def.: Echitația este o practică sportivă, recreativă și de agrement care implică controlul unui cal prin intermediul diferitelor tehnici de călărie. De-a lungul istoriei, echitația a evoluat dintr-o activitate necesară pentru transport și muncă într-o formă sofisticată de sport și divertisment. Astăzi, echitația include nu doar competiții, dar și diverse abordări terapeutice, fiind folosită pentru îmbunătățirea stării fizice și psihice a participanților.
+Definiția echitației poate fi privită din mai multe perspective, fiind strâns legată de interacțiunea dintre călăreț și cal. Această interacțiune se bazează pe o comunicare continuă și subtilă, unde semnalele verbale și non-verbale ale călărețului influențează comportamentul calului. În mod ideal, o echitație de succes presupune un raport de încredere și respect reciproc între cal și călăreț, iar acest lucru se construiește pe parcursul unui antrenament constant și dedicat.</p>
 <section id="image">
    <h2 class="center"=
+<body>
+<video controls width="500">
+   <source src=https://upload.wikimedia.org/wikipedia/commons/f/fc/Horsey%21_A_horse_video.webm
+type="video/mp4">
+</video>
+</body>
+<body>
+ <h1>Principalele activitati <//h1>
+ <p id="paragraf verde">La o fermă de echitație, primele activități care se întâmplă sunt destinate mai ales integrării și pregătirii atât a cailor, cât și a călăreților. De obicei, prima vizită implică familiarizarea cu mediul și cu animalele. Călărețul sau vizitatorul învață cum să interacționeze cu caii într-un mod sigur și respectuos, fiind ghidat de instructori sau îngrijitori experimentați.
+În primul rând, se face o prezentare a fermei, iar călărețul începător învață noțiuni de bază despre îngrijirea cailor. Aici, persoanele aflate la început pot învăța cum să curățe calul, să îi verifice copitele și să îl hrănească, stabilind o relație de încredere cu animalul. Este important ca toată lumea să înțeleagă cum să se apropie de cal într-un mod calm și să aplice tehnici de îngrijire de bază, pentru a evita orice tip de stres atât pentru cal, cât și pentru călăreț.
+După familiarizarea cu caii, instructorul poate organiza o sesiune de acomodare pe cal, unde se pun accent pe siguranță și pe poziția corectă a călărețului. Călărețul învață să își regleze postura, să controleze frâiele și să mențină un echilibru corect. În multe ferme, primele lecții pot începe pe cai dresați să fie mai răbdători și ușor de controlat, pentru a asigura o experiență plăcută și sigură.
+Pe lângă lecțiile de echitație propriu-zise, la început, fermierul sau instructorul se asigură că sunt explicate reguli de siguranță, precum importanța echipamentului de protecție, cum ar fi casca de protecție și vestele de siguranță. Aceste lecții pot include și prezentarea unui mic tur al terenului de antrenament sau al pistei de echitație, pentru ca persoanele noi să devină confortabile cu mediul. 
+În general, prima dată la o fermă de echitație, accentul este pus pe învățarea elementelor fundamentale, pe dezvoltarea unei relații de încredere cu calul și pe dobândirea unui set de abilități de bază, esențiale pentru o practică sigură și eficientă a acestui sport. </p>
+</body>  
+  </section>
+<body>
+<h2>Imagine:</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Horse-racing-4.jpg" alt="Cai frumosi" width="500">
+</body>
+<body>
+ <h1>Primele lectii</h1>
+ <p id="paragraf verde">După primele lecții de acomodare și îngrijire a cailor, la o fermă de echitație, călărețul începător va învăța treptat despre diferitele aspecte ale echitației. Odată ce legătura de încredere cu calul începe să se construiască, instructorul va începe să ofere lecții mai detaliate despre tehnicile de bază ale echitației, concentrându-se pe mișcările și comportamentele fundamentale care fac parte din orice disciplină ecvestră.
+Primul pas este, de obicei, învățarea modului corect de a sta în șa. Călărețul învață să își echilibreze greutatea, să își folosească mușchii corect și să aplice forța necesară pentru a menține echilibrul în timpul mersului calului. De asemenea, învățarea poziției corecte este esențială, iar instructorul va explica importanța unei posturi drepte și a unei poziții relaxate, care permite călărețului să își controleze corpul și să simtă mai bine mișcările calului.
+La început, lecțiile se vor concentra pe mersul simplu al calului. Călărețul va învăța cum să își aplice comenzile pentru a obține un mers regulat, cum să folosească frâiele și cum să își coordoneze picioarele pentru a induce mișcarea dorită. Acest proces poate părea simplu la început, dar este important ca începătorul să dezvolte o bună înțelegere a comenzilor și a reacțiilor calului pentru a construi o legătură solidă. După ce călărețul se simte confortabil în mersul pe jos, instructorul poate începe să introducă treptat și alte mersuri, cum ar fi trapul sau galopul, care necesită un control mai avansat al calului. Acestea sunt mișcări mai rapide, iar călărețul trebuie să învețe cum să își adapteze postura și să folosească ajutoarele (frâiele, picioarele și corpul) într-un mod precis și coordonat.
+Pe măsură ce lecțiile progresează, instructorul va încuraja călărețul să dezvolte abilități mai avansate. De exemplu, călărețul poate învăța cum să efectueze o schimbare de direcție, cum să îmblânzească un cal agitat sau cum să îmbunătățească controlul frâielor pentru a se asigura că calul răspunde prompt și corect la comenzile sale. Aceste lecții sunt fundamentale pentru construirea unei relații de încredere și respect între călăreț și cal, iar fiecare pas învățat reprezintă o realizare semnificativă.
+În paralel cu tehnicile de echitație, la fermele de echitație se pune mult accent și pe îngrijirea animalelor. Călăreții sunt învățați să observe semnele de sănătate ale cailor, să le îngrijească părul și să le verifice periodic copitele. De asemenea, călăreții începători vor învăța importanța hranei corespunzătoare și a îngrijirii medicale, astfel încât să devină nu doar călăreți mai buni, dar și îngrijitori responsabili.
+În funcție de tipul de fermă de echitație, călărețul poate fi implicat și în activități suplimentare, cum ar fi participarea la concursuri de echitație, care pot fi un mod excelent de a pune în practică abilitățile învățate. Aceste competiții pot include sărituri peste obstacole, competiții de viteză sau chiar dresaj, iar un astfel de eveniment poate reprezenta o oportunitate importantă de a evalua progresul călărețului și al calului.
+Pe lângă toate acestea, o fermă de echitație este și un loc minunat de socializare. De multe ori, călăreții se adună pentru a discuta despre tehnicile de echitație, pentru a împărtăși experiențe sau chiar pentru a organiza plimbări sau excursii de grup. Aceste activități contribuie la crearea unui sentiment de comunitate și camaraderie între pasionații de echitație, iar aceasta face parte din farmecul activității.
+Pe măsură ce călărețul progresează, instrucția devine din ce în ce mai personalizată, iar lecțiile avansează pe măsură ce abilitățile și încrederea cresc. Fiecare lecție de echitație reprezintă o oportunitate de învățare continuă, iar fermierii și instructorii sunt mereu acolo pentru a ghida fiecare călăreț în călătoria sa ecvestră. </p>
+</body
+<body>
+<h1>Finalul lectiei </h1>
+<p id="paragraf verde">La finalul unei perioade de învățare la o fermă de echitație, călărețul ar trebui să fi făcut progrese semnificative în dezvoltarea abilităților sale și în relația cu calul. În funcție de experiența acumulată și de obiectivele stabilite, călărețul ar putea ajunge să fie capabil să participe la competiții ecvestre, să participe la plimbări lungi prin natură sau să aplice tehnici avansate de dresaj și control al calului. De asemenea, acesta va fi mult mai încrezător în propriile abilități, având o mai bună înțelegere a echilibrului, coordonării și tehnicii necesare pentru a călări cu succes.
+Pe lângă abilitățile tehnice, la final, călărețul va fi învățat cum să comunice cu calul într-un mod subtil, dar eficient, să își interpreteze reacțiile și să se adapteze stilului și nevoilor animalului. Această relație de colaborare devine esențială, iar călărețul va înțelege mai bine semnalele calului și va reacționa corect la comportamentele acestuia.
+În plus, în timpul procesului de învățare, călărețul ar trebui să fi dobândit și o mai bună cunoaștere a responsabilităților care vin cu îngrijirea unui cal. El va ști să îngrijească animalul în mod corespunzător, să recunoască semnele de sănătate sau de disconfort și să aprecieze cât de important este să mențină calul într-o stare fizică bună. Astfel, nu doar că va fi un călăreț mai bun, dar și un îngrijitor responsabil.
+La finalul experienței, fermă de echitație poate deveni un loc important pentru călăreț, nu doar pentru lecțiile învățate, dar și pentru prietenii create și momentele de conectare cu natura. Această practică poate deveni o pasiune pe viață, iar călărețul poate alege să progreseze și să participe la noi competiții, să își îmbunătățească continuu tehnica sau chiar să se implice în activități de dresaj sau îngrijire a cailor la un nivel mai profesional.
+Indiferent de direcția aleasă, experiența la o fermă de echitație va lăsa o amprentă semnificativă în viața călărețului, ajutându-l să își dezvolte nu doar abilități fizice și tehnice, dar și o apreciere profundă pentru cai și pentru legătura specială ce se poate forma între om și animal. </p>
+</body>
+</html>
+
